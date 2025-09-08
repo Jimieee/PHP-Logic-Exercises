@@ -97,7 +97,7 @@ function fizzBuzz(int $n): array {
     return $ans;
 }
 
-// ---- Demo (Spanish console output) ----
+// ---- Demo (in spanish console output T_T) ----
 if (PHP_SAPI === 'cli' && realpath($argv[0]) === __FILE__) {
     printTitleEs('Parte 1 - Serie de Fibonacci');
     echo 'Primeros 7 términos: ';
