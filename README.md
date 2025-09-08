@@ -1,7 +1,5 @@
 # PHP Logic Exercises
 
-**Code in English, concise comments in English, and console output in Spanish.**
-
 ## Content
 - Part 1
   - `generateFibonacci(n)`
